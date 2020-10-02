@@ -29,7 +29,7 @@ Animations/clubgamma/
     Copy the below template into your file, delete the boilerplate data and fill the information with yours.
     ```
     name: CLUB GAMMA
-    institution: CHARUSAT 
+    institution: CHARUSAT University
     email_id: gce@charusat.edu.in
     github_user: clubgamma
     ```
@@ -61,7 +61,7 @@ Ex.
 
 ### Prizes 🎁
   
-**Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
+* Winner of this contest will get a cool GitHub T-shirt and also some awesome swags by GitHub** 🥳🥳
 
 [![](https://img.shields.io/badge/Telegram-Join-%232CA5E0.svg?&style=flat&logo=telegram&logoColor=white)](http://bit.ly/cg-telegram) <br>
 Winners will be announced in our Telegram Channel :loudspeaker:  [**bit.ly/cg-telegram**](http://bit.ly/cg-telegram) <br>
